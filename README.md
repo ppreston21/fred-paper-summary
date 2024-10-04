@@ -7,4 +7,5 @@ The St. Louis Fed runs the Federal Reserve Economic Data (FRED), which from time
 2) Summarizes thoses research papers.
 
 **fred report 2.py** - combs the FRED site for the three latest papers and returns their URLs.
+
 **summarize fred paper.py** - summarizes the pdf file of the paper URL you have selected.
